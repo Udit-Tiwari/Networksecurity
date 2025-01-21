@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Projects/Networksecurity/mlruns/0/7a84298804d14dc2a7577432480ad41a/artifacts
+end_time: 1737449342582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a84298804d14dc2a7577432480ad41a
+run_name: sincere-seal-65
+run_uuid: 7a84298804d14dc2a7577432480ad41a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737449336478
+status: 3
+tags: []
+user_id: '91807'
