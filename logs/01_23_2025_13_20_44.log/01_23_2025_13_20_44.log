@@ -1,0 +1,6 @@
+[ 2025-01-23 13:20:49,579 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2025-01-23 13:20:49,584 ] 107 dagshub - INFO - Accessing as Udit-Tiwari
+[ 2025-01-23 13:20:49,983 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/Udit-Tiwari/networksecurity "HTTP/1.1 200 OK"
+[ 2025-01-23 13:20:50,375 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2025-01-23 13:20:50,378 ] 107 dagshub - INFO - Initialized MLflow to track repo "Udit-Tiwari/networksecurity"
+[ 2025-01-23 13:20:50,379 ] 107 dagshub - INFO - Repository Udit-Tiwari/networksecurity initialized!
